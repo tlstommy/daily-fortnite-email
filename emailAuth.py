@@ -1,0 +1,2 @@
+email = "SENDING EMAIL"
+emailPass = "SENDING EMAIL PASSWORD"
